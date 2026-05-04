@@ -1,0 +1,97 @@
+C:\Users\10\OneDrive\Desktop\Yeni klasör\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\bin\Debug\net9.0\appsettings.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\bin\Debug\net9.0\Yeni klasör.staticwebassets.runtime.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\bin\Debug\net9.0\Yeni klasör.staticwebassets.endpoints.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\bin\Debug\net9.0\Yeni klasör.exe
+C:\Users\10\OneDrive\Desktop\Yeni klasör\bin\Debug\net9.0\Yeni klasör.deps.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\bin\Debug\net9.0\Yeni klasör.runtimeconfig.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\bin\Debug\net9.0\Yeni klasör.dll
+C:\Users\10\OneDrive\Desktop\Yeni klasör\bin\Debug\net9.0\Yeni klasör.pdb
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.AssemblyInfoInputs.cache
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.AssemblyInfo.cs
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.csproj.CoreCompileInputs.cache
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.RazorAssemblyInfo.cache
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.RazorAssemblyInfo.cs
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\scopedcss\bundle\Yeni klasör.styles.css
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\scopedcss\projectbundle\Yeni klasör.bundle.scp.css
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\4yr2ncthsn-b9sayid5wm.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\dwsm8z6neg-61n19gt1b8.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\2x3p4adgsl-xtxxf3hu2r.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\w483bby2hb-bqjiyaj88i.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\s5fi6sfu1b-c2jlpeoesf.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\amavfbltbw-erw9l3u2r3.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\ddkmikzdoe-aexeepp0ev.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\bs0xcfsqog-d7shbmvgxk.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\p67spygawd-ausgxo2sd3.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\csnbylwv26-k8d9w2qqmf.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\cjfbzsydyj-cosvhxvwiu.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\5hj2sk4ed0-ub07r2b239.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\jhf7gs0hay-fvhpjtyr6v.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\52lv3gfu8f-b7pk76d08c.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\d4qrz2wp5t-fsbi9cje9m.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\9co5qgebpu-rzd6atqjts.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\lp4rydj726-ee0r1s7dh0.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\hj0k4ms971-dxx9fxp4il.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\6e610zcvu4-jd9uben2k1.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\3vo8znct3z-khv3u5hwcm.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\1c1f8nr0r5-r4e9w2rdcm.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\7e58emrtlz-lcd1t2u6c8.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\ufhymu4ehz-c2oey78nd0.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\pty9q2e6q6-tdbxkamptv.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\74wtdmrgk4-j5mq2jizvt.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\cuivvk32fr-06098lyss8.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\m6tabgayes-nvvlpmu67g.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\rzq7pco8is-s35ty4nyc5.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\om5ld7zxy4-pj5nd1wqec.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\nvib08gsk4-46ein0sx1k.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\03hja6sxbk-v0zj4ognzu.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\3b27zvlwaz-37tfw0ft22.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\avjso4qigc-hrwsygsryq.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\dvsqk7ns5t-pk9g2wxc8p.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\cxkxfufrdg-ft3s53vfgj.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\vm3pgkiazr-6cfz1n2cew.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\cxgx2sgg5j-6pdc2jztkx.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\ygqxtmeqps-493y06b0oq.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\grsui8haox-iovd86k7lj.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\664ek021ib-vr1egmr9el.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\p4mtdfo9x3-kbrnm935zg.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\cmejbjr5qj-jj8uyg4cgr.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\is0evpu023-y7v9cxd14o.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\1jd9sy61it-notf2xhcfb.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\qkln3yccrr-h1s4sie4z3.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\6uwlahlhkv-63fj8s7r0e.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\40x0xw2ue2-0j3bgjxly4.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\hg6q1eq9re-47otxtyo56.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\ql3jpzqbhp-4v8eqarkd7.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\gv0pfdz4ur-356vix0kms.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\3id4cpllny-83jwlth58m.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\wnl0d6zbgk-mrlpezrjn3.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\h2z83tsh8k-lzl9nlhx6b.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\isayvg3a6e-ag7o75518u.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\hcysob6l1h-x0q3zqp4vz.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\fk0tggrr4x-0i3buxo5is.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\2mx3nepvnh-o1o13a6vjx.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\zdk4ircxbz-ttgo8qnofa.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\2vsxjz641t-2z0ns9nrw6.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\u3egao116a-muycvpuwrr.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\128wsfxv42-87fc7y1x7t.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\yjmttzpb59-mlv21k5csn.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\ash43mlvbj-illtcs2rc9.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\compressed\5c3sorlrer-illtcs2rc9.gz
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\staticwebassets\msbuild.Yeni klasör.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\staticwebassets\msbuild.Yeni klasör.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\staticwebassets\msbuild.build.Yeni klasör.props
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Yeni klasör.props
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Yeni klasör.props
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.dll
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\refint\Yeni klasör.dll
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.pdb
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.genruntimeconfig.cache
+C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\ref\Yeni klasör.dll
