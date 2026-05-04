@@ -95,3 +95,101 @@ C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\refint\Yeni klasör.d
 C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.pdb
 C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\Yeni klasör.genruntimeconfig.cache
 C:\Users\10\OneDrive\Desktop\Yeni klasör\obj\Debug\net9.0\ref\Yeni klasör.dll
+C:\Users\msi\OneDrive\Desktop\deneme-login\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\bin\Debug\net9.0\appsettings.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\bin\Debug\net9.0\Yeni klasör.staticwebassets.runtime.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\bin\Debug\net9.0\Yeni klasör.staticwebassets.endpoints.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\bin\Debug\net9.0\Yeni klasör.exe
+C:\Users\msi\OneDrive\Desktop\deneme-login\bin\Debug\net9.0\Yeni klasör.deps.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\bin\Debug\net9.0\Yeni klasör.runtimeconfig.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\bin\Debug\net9.0\Yeni klasör.dll
+C:\Users\msi\OneDrive\Desktop\deneme-login\bin\Debug\net9.0\Yeni klasör.pdb
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.RazorAssemblyInfo.cache
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.RazorAssemblyInfo.cs
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.sourcelink.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\scopedcss\bundle\Yeni klasör.styles.css
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\scopedcss\projectbundle\Yeni klasör.bundle.scp.css
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\xp662y01jg-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\m78vprfyut-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\zu3pbynvx7-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\hsrofrys4q-{0}-t1cqhe9u97-t1cqhe9u97.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\9j70t1b105-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\qpet12w4fh-{0}-sejl45xvog-sejl45xvog.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\ga38l8nr6l-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\1zamzhelz0-{0}-xvp3kq03qx-xvp3kq03qx.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\1un1jk0rln-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\5nz5vrqgtc-{0}-22vffe00uq-22vffe00uq.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\gwumokrz43-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\lvwc4e95bi-{0}-qesaa3a1fm-qesaa3a1fm.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\cibs42jovo-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\0aulgjdt9q-{0}-tmc1g35s3z-tmc1g35s3z.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\68zm64cn0s-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\dhv8y0o957-{0}-rxsg74s51o-rxsg74s51o.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\h42luxmwfg-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\54qz0pat7t-{0}-q9ht133ko3-q9ht133ko3.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\d485tnsv8o-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\bodt1e1pi2-{0}-gye83jo8yx-gye83jo8yx.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\5jujee3c1g-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\hg4yne8p8f-{0}-wl58j5mj3v-wl58j5mj3v.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\hnp95m28z4-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\sxe3b4azap-{0}-d4r6k3f320-d4r6k3f320.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\48dmb4mgob-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\g9uwo1wkei-{0}-keugtjm085-keugtjm085.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\zczpp01d78-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\pnkk9uawl3-{0}-zub09dkrxp-zub09dkrxp.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\526lce17dy-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\f45y1ym6k1-{0}-43atpzeawx-43atpzeawx.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\3qde6yzqv0-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\jeyt3bcru0-{0}-ynyaa8k90p-ynyaa8k90p.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\5iccf7benz-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\tnt5px8i9e-{0}-c63t5i9ira-c63t5i9ira.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\jzdnmutpz7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\l7clu1zm06-{0}-4094rpi4f9-4094rpi4f9.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\yo2adkn58q-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\stphf8lu24-{0}-hd3gran6i8-hd3gran6i8.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\2z87k6u7g3-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\tn328pktur-{0}-ltid2c489k-ltid2c489k.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\btryqoyc5m-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\vjgc0j4bda-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\9hy5vly2by-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\yae7k7ptnh-{0}-u9q1upor1n-u9q1upor1n.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\qhtj0m4e33-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\6tqnzngybw-{0}-4d85u1mtcx-4d85u1mtcx.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\ijtaubtqzr-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\7vkjrddc2j-{0}-03hjc8e09r-03hjc8e09r.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\uvch1u11qr-{0}-48y08845bh-48y08845bh.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\ynp2m798d5-{0}-356vix0kms-356vix0kms.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\uv0pamzfkg-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\nyu0qpjtdb-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\wibakcnf08-{0}-worgj0nhwm-worgj0nhwm.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\r0jd7e1iey-{0}-gk0pw8i4co-gk0pw8i4co.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\uyp0dwf6bx-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\29j4alj09e-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\jsxlbf0kjn-{0}-m9qm4tazc0-m9qm4tazc0.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\rlmvfk43la-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\8a7tmuajlo-{0}-jjsuc0puko-jjsuc0puko.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\c68axx2kjx-{0}-9vr69e8ynj-9vr69e8ynj.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\mb52y25qus-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\pqp8670hk3-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\4o2i0rd764-{0}-snn5sc9lnv-snn5sc9lnv.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\compressed\0qi1bif9d6-{0}-snn5sc9lnv-snn5sc9lnv.gz
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.dll
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\refint\Yeni klasör.dll
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.pdb
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\Yeni klasör.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Desktop\deneme-login\obj\Debug\net9.0\ref\Yeni klasör.dll
